@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg">
   <img alt="build" src="https://img.shields.io/badge/build-pass-green">
-  <img alt="Last generation" src="https://img.shields.io/badge/last_generation-2026.08.14%2005%3A02%20UTC-brightgreen">
+  <img alt="Last generation" src="https://img.shields.io/badge/last_generation-2026.10.16%2008%3A11%20UTC-brightgreen">
 </p>
 
 Automatically generated DNS blocklists based on the public Infoblox Threat Intelligence combined indicator list.

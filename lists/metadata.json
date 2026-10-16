@@ -2,13 +2,13 @@
   "checksums": {
     "algorithm": "sha256",
     "files": {
-      "infoblox-tif-adblock.txt": "396598ade363a09a148fa247c73dccb348057b8b06f4788d572633e0aa112e58",
-      "infoblox-tif-domains.txt": "44c4c71c6a1b03fafe816d7fc179995456f223f7872e22848144c3f1124fc672"
+      "infoblox-tif-adblock.txt": "2202f34b9bcc99327f7dfd4699a51ccaa0ed7d6d0e84849d3b744fd36b092947",
+      "infoblox-tif-domains.txt": "516d1ac44c93172bdf4fba71d569f0e879318cc5ad0bbcbeef42a6c2ee2d132d"
     }
   },
-  "downloaded_rows": 32970,
-  "duplicates_removed": 16,
-  "generated": "2026-08-14T05:02:59.813060Z",
+  "downloaded_rows": 28159,
+  "duplicates_removed": 14,
+  "generated": "2026-10-16T08:11:14.408157Z",
   "generator": {
     "name": "infoblox-tif-blocklist",
     "version": "0.1.0"
@@ -19,7 +19,7 @@
     "url": "https://github.com/ensmingera/infoblox-tif-blocklist"
   },
   "source": "https://raw.githubusercontent.com/infobloxopen/threat-intelligence/main/indicators/combined.csv",
-  "source_commit": "3f145893f75ba89ab42024c43d3545d2c4880ebb",
-  "unique_domains": 32952,
-  "valid_domains": 32952
+  "source_commit": "dc3ac8d84e7870c2b1bafcf3cda092a161a565c5",
+  "unique_domains": 28143,
+  "valid_domains": 28143
 }
